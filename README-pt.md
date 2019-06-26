@@ -25,13 +25,13 @@ Sobre o processo de recrutamento...
 
 ## O que fazer
 
-Acesse [essa loja online](http://automationpractice.com/index.php) e procure por situação para testar.
+Acesse [essa loja online](http://automationpractice.com/index.php) e procure por situações para testar.
 
 Alguns exemplos são...
 
 - Sign in _(que obriga a fazer o sign up antes)_
 - Carrinho
-- Visão de produto
+- Visão rápida de produto
 
 Encontre pelo menos 3 funcionalidades para serem testadas.
 
